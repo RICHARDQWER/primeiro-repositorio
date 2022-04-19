@@ -1,1 +1,5 @@
-# primeiro-repositorio
+   # primeiro-repositorio  
+<h1>empresa para gatos e cães desaparecidos<h1>
+</h1>essa empresa consiste em um aplicativo baixado no celular que  lê qr code o objetivo,  é recuperar animais de  estimação caso eles fugirem.   
+<p>esse qrcode é, colocado na coleira do animal , que ao ser lido redireciona para o aplicativo na loja de aplicativos  para ser baixado,para quem o encontrar. <p> com o aplicativo  já baixado a pessoa iria entrar  e ler o qrcode  novamente e lá  apareceriam  todas as informações  sobre  o animal,  quem é o dono basicamente  as informações  que o dono colocar no aplicativo  ao ter cadastrado o  animal de estimação. 
+<p>criando a conta  e cadastrando o animal  com informações  e fotos ,também  tera um chat dentro do aplicativo  que quem encontrar  o animalzinho poderá  ser comunicar com o dono.
